@@ -7,7 +7,7 @@ import {
 
 const Header = () => {
   return (
-    <div className="py-6 flex justify-center items-center gap-20 md:gap-10 border-b sticky top-0 bg-black z-50">
+    <div className="py-6 flex justify-center items-center gap-20 md:gap-10 border-b sticky top-0 bg-black z-[100]">
       <Link
         href={"/"}
         className="relative text-white group tracking-widest flex flex-col items-center"

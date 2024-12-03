@@ -97,7 +97,7 @@ export const CardImage = ({ className, children }) => {
   return (
     <div
       className={cn(
-        "absolute top-64 left-4 right-4 border h-32 rounded-lg",
+        "absolute top-64 left-4 right-4 border h-32 rounded-lg ",
         className
       )}
     >
